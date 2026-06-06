@@ -17,4 +17,4 @@ services:
           name: inventory-order-db
           property: connectionString
       - key: CORS_ORIGINS
-        value: "*"
+        value: "https://frontend-eight-inky-22.vercel.app"

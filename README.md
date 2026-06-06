@@ -96,6 +96,14 @@ docker compose up --build
 
 ## Deployment Guide
 
+## Live Deployment Links
+
+- GitHub repository: https://github.com/sachin74u/inventory-order-management-deployment
+- Docker Hub backend image: https://hub.docker.com/r/sachin74u/inventory-api/tags
+- Backend API: https://inventory-order-api-c6uc.onrender.com
+- Backend API docs: https://inventory-order-api-c6uc.onrender.com/docs
+- Frontend app: https://frontend-eight-inky-22.vercel.app
+
 ### Backend on Render
 
 1. Push this repository to GitHub.
@@ -136,7 +144,7 @@ docker push your-dockerhub-user/inventory-api:latest
 
 ## Submission Checklist
 
-- GitHub repository link: add after pushing to GitHub
-- Docker Hub backend image link: add after pushing the backend image
-- Live frontend URL: add after deploying on Vercel or Netlify
-- Live backend API URL: add after deploying on Render, Railway, or Fly.io
+- GitHub repository link: https://github.com/sachin74u/inventory-order-management-deployment
+- Docker Hub backend image link: https://hub.docker.com/r/sachin74u/inventory-api/tags
+- Live frontend URL: https://frontend-eight-inky-22.vercel.app
+- Live backend API URL: https://inventory-order-api-c6uc.onrender.com
