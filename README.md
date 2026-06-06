@@ -59,12 +59,6 @@ cp .env.example .env
 docker compose up --build
 ```
 
-4. Open the app:
-
-- Frontend: http://localhost:3000
-- Backend API: http://localhost:8000
-- API docs: http://localhost:8000/docs
-
 ## API Endpoints
 
 ### Products
